@@ -1,4 +1,6 @@
-# Hi, I’m Aslan
+<p align="center">
+// # Hi, I’m Aslan
+</p>
 ## I’m currently learning Python
 <!---
 hcaslan/hcaslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
