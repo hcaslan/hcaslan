@@ -1,4 +1,4 @@
-### Hi, I’m @hcaslan
+# Hi, I’m @hcaslan
 ## I’m currently learning Python
 <!---
 hcaslan/hcaslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
