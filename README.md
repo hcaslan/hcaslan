@@ -1,7 +1,7 @@
 <div>
   <h1> Hi! I'm Aslan. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   <div>
-    <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFvNTg4aXJlc3p2aGc3OTQ3bG5vZ2JxYnFnbXI5dzE4aGd6dTh4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="230">
+    <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFvNTg4aXJlc3p2aGc3OTQ3bG5vZ2JxYnFnbXI5dzE4aGd6dTh4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" width="200">
     <a>I like learning new things and ---></a><br/><br/>
     <a>I am improving myself in Java Full Stack Development and actively seeking a job.</a><br/><br/>
     <a>To contact me :</a><br/><br/>
