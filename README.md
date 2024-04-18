@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/hcaslanozen/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"> </img></a>
     <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"> </img></a>
   </div>
-  <div style="margin-top: 20px;">
+  <div style="margin-top: 100px;">
       <h2>🔧Technologies & Tools</h2>
   </div>
 </div>
