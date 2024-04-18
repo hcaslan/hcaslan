@@ -6,6 +6,6 @@
     <a>To contact me :</a><br/>
     <a href="https://github.com/hcaslan"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></img></a>
     <a href="https://www.linkedin.com/in/hcaslanozen/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></img></a>
-    <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></img></a>
   
   </div>
