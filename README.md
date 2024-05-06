@@ -5,9 +5,9 @@
     <a>I like learning new things and ---></a><br/><br/>
     <a>I am improving myself in Java Full Stack Development and actively seeking a job.</a><br/><br/>
     <a>To contact me :</a><br/><br/>
-    <a href="https://github.com/hcaslan"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></img></a>
     <a href="https://www.linkedin.com/in/hcaslanozen/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></img></a>
     <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></img></a>
+    <a href="https://hcaslan.github.io"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat&logo=GitHub-Pages&logoColor=white"></img></a>
   </div>
   <div>
       <h2>🔧Technologies & Tools</h2>
@@ -17,13 +17,12 @@
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white"/>
       <h3>Tools and Services:</h3>
-      <!--Tools for UI-->
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
-      <br/>  
       <!--Java-->
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
-      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white"/>
+      <br/>
+      <!--Database-->
+      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <br/>
       <!--C++-->
       <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
@@ -34,15 +33,9 @@
       <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
       <br/>
-      <!---
-      <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
-      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-      --->
+      <!--Tools for UI-->
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
+      <br/>  
   </div>
 </div>
 <!---
