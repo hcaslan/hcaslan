@@ -5,10 +5,10 @@
     <a>I like learning new things and ---></a><br/><br/>
     <a>Improving myself in Java Full Stack Development and actively seeking a job.</a><br/><br/>
     <a>Connect with me </a><br/><br/>
-    <a href="https://www.linkedin.com/in/hcaslanozen/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></img></a>
+    <a href="https://www.linkedin.com/in/hcaslanozen/"> <img  src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn></img></a>
     <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"></img></a>
-    <a href="https://medium.com/@hcaslan"><img src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=Medium&logoColor=white" alt="Gmail"></img></a>
-    <a href="https://hcaslan.github.io"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat&logo=GitHub-Pages&logoColor=white"></img></a>
+    <a href="https://medium.com/@hcaslan"><img src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=Medium&logoColor=white" alt="Medium"></img></a>
+    <a href="https://hcaslan.github.io"> <img src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=flat&logo=GitHub-Pages&logoColor=white" alt="Github Pages"></img></a>
   </div>
   <div>
       <h2>🔧Technologies & Tools</h2>
