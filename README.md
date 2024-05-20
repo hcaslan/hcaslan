@@ -38,7 +38,9 @@
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
       <br/>  
   </div>
-  <div align="right">![Visitor Count](https://profile-counter.glitch.me/{hcaslan}/count.svg)</div>
+  <div align="right">
+    <a href=""> <img  src="https://profile-counter.glitch.me/{hcaslan}/count.svg"></img></a>
+  </div>
 </div>
 <!---
 hcaslan/hcaslan is a ✨ special ✨ repository because its `README.md` (this file) appears on GitHub profile.
