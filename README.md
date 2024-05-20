@@ -39,7 +39,7 @@
       <br/>  
   </div>
   <div align="right">
-    <a href=""> <img  src="https://profile-counter.glitch.me/{hcaslan}/count.svg"></img></a>
+<!--     <a href=""> <img  src="https://profile-counter.glitch.me/{hcaslan}/count.svg"></img></a> -->
   </div>
 </div>
 <!---
