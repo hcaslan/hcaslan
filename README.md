@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/hcaslanozen/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>&nbsp;
     <a href="mailto:hcaslan.ozen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></img></a>&nbsp;
     <a href="https://medium.com/@hcaslan"><img src="https://img.shields.io/badge/Medium-000000.svg?style=flat&logo=Medium&logoColor=white" alt="Medium"></img></a>&nbsp;
-    <a href="https://hcaslan.github.io"> <img src="https://img.shields.io/badge/-GitHub%20Pages-222222.svg?style=flat&logo=GitHub-Pages&logoColor=white" alt="Github Pages"></img></a>&nbsp;
+<!--     <a href="https://hcaslan.github.io"> <img src="https://img.shields.io/badge/-GitHub%20Pages-222222.svg?style=flat&logo=GitHub-Pages&logoColor=white" alt="Github Pages"></img></a>&nbsp; -->
   </div>
   <div>
       <h2>🔧Technologies & Tools</h2>
@@ -32,18 +32,19 @@
       <!--Database-->
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=Redis&logoColor=white"/>
       <br/>
       <!--C++-->
       <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
       <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
       <br/>
       <!--python-->
-      <img src="https://img.shields.io/badge/scikit--image-brightgreen?style=flat&logo=scikit-image&logoColor=white" />
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Image-brightgreen?style=flat&logo=scikit-image&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white"/>
       <br/>
       <!--Tools for UI-->
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
       <br/>  
   </div>
   <div align="right">
