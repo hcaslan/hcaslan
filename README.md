@@ -13,7 +13,9 @@
   <div>
       <h2>🔧Technologies & Tools</h2>
       <h3>Programming Languages:</h3>
-      <img src="https://img.shields.io/badge/-java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-C-858F99?style=flat&logo=c&logoColor=white"/>
@@ -28,11 +30,17 @@
       <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=flat&logo=RabbitMQ&logoColor=white"/>
       <img src="https://img.shields.io/badge/Swagger-5C9929.svg?style=flat&logo=Swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=flat&logo=Kubernetes&logoColor=white"/>
       <br/>
       <!--Database-->
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=Redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Elastic-005571.svg?style=flat&logo=Elastic&logoColor=white"/>
+      <br/>
+      <!---->
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black"/>
       <br/>
       <!--C++-->
       <img src="https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white"/>
